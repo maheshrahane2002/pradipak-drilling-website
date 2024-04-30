@@ -1,20 +1,17 @@
 import "./WorkCardStyles.css";
-import React from 'react'
+import React from "react";
 
 const WorkCard = (props) => {
   return (
-        <div className="product-card">
-<img src={props.imgsrc} alt="image" />
+    <div className="product-card">
+      <img src={props.imgsrc} alt={props.title} />
 
-<h2 className="product-title">{props.title}</h2>
-<div className="pro-details">
-<p>{props.text}</p>
+      <h2 className="product-title">{props.title}</h2>
+      <div className="pro-details">
+        <p>{props.text}</p>
+      </div>
+    </div>
+  );
+};
 
-
-</div>
- </div>
-      
-  )
-}
-
-export default WorkCard
+export default WorkCard;
