@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/pradipak-drilling-website/static/css/main.2be6191a.css",
-    "main.js": "/pradipak-drilling-website/static/js/main.e3172f14.js",
+    "main.js": "/pradipak-drilling-website/static/js/main.3b490309.js",
     "static/media/react1.jpg": "/pradipak-drilling-website/static/media/react1.bfbef54652109aa6ca96.jpg",
     "static/media/react2.jpg": "/pradipak-drilling-website/static/media/react2.b34c254b1141bf5cba5e.jpg",
     "static/media/intro-bg.jpg": "/pradipak-drilling-website/static/media/intro-bg.f81bed99a9316c51e3f4.jpg",
@@ -10,10 +10,10 @@
     "static/media/project2.png": "/pradipak-drilling-website/static/media/project2.24977202addc3e1e0ae4.png",
     "index.html": "/pradipak-drilling-website/index.html",
     "main.2be6191a.css.map": "/pradipak-drilling-website/static/css/main.2be6191a.css.map",
-    "main.e3172f14.js.map": "/pradipak-drilling-website/static/js/main.e3172f14.js.map"
+    "main.3b490309.js.map": "/pradipak-drilling-website/static/js/main.3b490309.js.map"
   },
   "entrypoints": [
     "static/css/main.2be6191a.css",
-    "static/js/main.e3172f14.js"
+    "static/js/main.3b490309.js"
   ]
 }
